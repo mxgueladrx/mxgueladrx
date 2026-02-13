@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Actualmente estoy estudiando el tercer año de Ingeniería Informática en la **Universidad de Málaga (UMA)**, especializándome en la rama de computación científica. 
+Actualmente estoy estudiando el tercer año de Ingeniería Informática en la **Universidad de Málaga (UMA)**, especializándome en la rama de ciencias de la computación. 
 
 Durante mi formación académica, he desarrollado un profundo interés y una clara vocación en el campo de la **Inteligencia Artificial**. Mi enfoque actual se centra en dominar los fundamentos teóricos y prácticos de esta gran área, especialmente en el **Deep Learning** y el **Machine Learning**.
 
